@@ -1,0 +1,154 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Touseef Murtaza
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: touseefmurtaza1993@gmail.com
+    phone: +92 321 9346933
+    timezone: Central European Timezone
+    linkedin: touseefmurtaza
+    github: touseefmurtaza
+    twitter: '@touseefmurtaza'
+    stack-overflow: 8247133/touseef-murtaza
+    pdf:
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Urdu
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Climbing
+          link:
+
+        - item: Gaming
+          link:
+
+        - item: Table Tennis
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      As an experienced Ruby on Rails developer, I bring a strong passion for writing clean, efficient, and accessible code within the framework of functional programming. I am dedicated to the entire development lifecycle, from inception to deployment, with a steadfast commitment to maintaining code quality throughout.
+
+      My approach to software engineering is centered around problem-solving, where I thrive in tackling complex challenges and devising innovative solutions. With a positive attitude and excellent communication skills, I am adept at collaborating with cross-functional teams to ensure smooth project execution and successful outcomes.
+
+      Throughout my career, I have consistently demonstrated leadership qualities by identifying opportunities for application development and spearheading their implementation. I am driven by a desire to stay at the forefront of technological advancements and constantly seek ways to improve my skills and knowledge.
+
+      In addition to my technical expertise, I possess a strong sense of organization and attention to detail. This ensures that not only do I produce high-quality code, but also that projects are effectively managed and deadlines are met.
+
+      Overall, I am a dedicated professional who is genuinely passionate about my work, continuously striving for excellence in every aspect of software development. By combining my technical skills, problem-solving abilities, and commitment to code quality, I am confident in my ability to contribute to and succeed in any project or team environment.
+
+education:
+    title: Education
+    info:
+      - degree: Bachelor of Science in Computer Science BSCS(Hons.)
+        university: University of Central Punjab
+        time: 2011 - 2015
+        details: |
+          I completed my Bachelor's degree in Computer Science from the esteemed University of Central Punjab. Throughout my academic journey, I gained a comprehensive understanding of core computer science principles, programming languages, and software development methodologies. During my time at the university, I actively engaged in a diverse range of coursework, which equipped me with a solid foundation in various areas of computer science. The curriculum covered topics such as:
+            - Data structures
+            - Algorithms
+            - Database management
+            - Web development, and object-oriented programming.
+experiences:
+    title: Experiences
+    info:
+      - role: Mid Senior Software Engineer
+        time: 2022 - Present
+        company:   Jobandtalent
+        details: |
+          As a member of the Payroll Team at Jobandtalent, I played a vital role in ensuring accurate and efficient payroll processes for the company. Here are some key details about my responsibilities and contributions:
+            - Processed payroll for a large number of employees on a regular basis, adhering to strict timelines and ensuring compliance with relevant laws and regulations.
+            - Conducted thorough reviews and audits of payroll data to guarantee accuracy and completeness.
+            - Maintained meticulous records and documentation related to employee compensation, deductions, benefits, and taxes.
+            - Stayed updated with relevant laws, regulations, and industry best practices to ensure compliance and provide guidance on payroll-related matters.
+            - Assisted in the implementation and enhancement of payroll systems and processes to meet the evolving needs of the organization.
+            - Actively participated in team meetings and collaborated on special projects or initiatives aimed at optimizing payroll operations.
+            - Successfully managed multiple priorities and deadlines in a fast-paced and dynamic work environment.
+            - Contributed to continuous process improvement efforts, identifying opportunities to streamline workflows and enhance payroll operations.
+
+          Working in the Payroll Team at Jobandtalent has not only allowed me to develop expertise in managing payroll processes effectively but also strengthened my communication and collaboration skills. I take pride in my ability to ensure accurate and timely compensation for employees while maintaining a high level of professionalism and confidentiality.
+      - role: Senior Software Engineer -  Tech Lead
+        time: 2020 - 2022
+        company: Sendoso
+        details: |
+          In my role as a Tech Lead in the Fulfillment Team at Sendoso, I played a crucial role in driving technical excellence and leading the development of innovative solutions. Here are the key details about my responsibilities and contributions:
+            - Led a team of developers, providing technical guidance, mentorship, and fostering a collaborative and high-performing work environment.
+            - Participated in the full software development lifecycle, from requirement gathering to deployment, ensuring timely and high-quality deliverables.
+            - Worked closely with product managers and stakeholders to understand business requirements and translate them into technical solutions.
+            - Developed and maintained scalable and efficient backend systems to support the company's fulfillment operations, leveraging technologies such as Ruby on Rails, APIs, and microservices architecture.
+            - Implemented best practices and coding standards, ensuring clean, maintainable, and well-documented code.
+            - Conducted code reviews, identified areas for improvement, and provided constructive feedback to team members to enhance code quality and performance.
+            - Collaborated with cross-functional teams, including operations, logistics, and customer success, to identify opportunities for process optimization and automation.
+            - Actively participated in architectural discussions and contributed to the technical roadmap, proposing innovative ideas and solutions to meet business objectives.
+            - Resolved technical challenges and implemented effective solutions, proactively identifying and mitigating risks to project timelines and deliverables.
+            - Stayed up-to-date with industry trends, emerging technologies, and best practices, and applied this knowledge to drive innovation and continuous improvement within the team.
+            - Acted as a liaison between the Fulfillment Team and other engineering teams, fostering effective communication and coordination for seamless project execution.
+            - Demonstrated strong problem-solving skills, troubleshooting complex issues, and providing timely resolutions to ensure smooth operations.
+            - Championed a culture of collaboration, knowledge sharing, and learning, organizing technical workshops and training sessions to enhance the team's skills and expertise.
+
+          Working as a Tech Lead in the Fulfillment Team at Sendoso allowed me to combine my technical expertise with leadership skills, driving the team towards success in delivering scalable and efficient solutions. I take pride in my ability to foster a collaborative environment and deliver impactful results.
+      - role: Senior Software Engineer
+        time: 2018 - 2020
+        company: Sendoso
+        details: |
+          As a Senior Software Engineer in the Integration Team at Sendoso, I played a critical role in developing and maintaining robust integrations with external platforms. Here are the key details about my responsibilities and contributions:
+            - Designed and developed scalable and efficient integration solutions, leveraging APIs, webhooks, and other integration technologies.
+            - Implemented integration features and functionalities using languages and frameworks such as Ruby on Rails, JavaScript, and RESTful APIs.
+            - Conducted thorough testing and debugging of integration code, ensuring high-quality and reliable integrations.
+            - Worked closely with third-party API providers, establishing strong relationships and effectively troubleshooting any integration issues or challenges.
+            - Proactively identified opportunities for process automation and optimization, streamlining integration workflows and improving overall efficiency.
+            - Contributed to the overall technical roadmap of the Integration Team, collaborating on architectural decisions and strategic planning.
+
+          Working as a Senior Software Engineer in the Integration Team at Sendoso provided me with the opportunity to leverage my technical expertise to develop reliable and seamless integrations. I take pride in my ability to drive technical excellence, mentor junior team members, and deliver high-quality solutions.
+      - role: Software Engineer
+        time: 2016 - 2018
+        company: Nextbridge Ltd.
+        details: |
+          As a Software Engineer at Nextbridge Ltd., I worked with cross-functional teams, implemented coding best practices, participated in the software development lifecycle, and contributed to code reviews. I stayed updated with emerging technologies and actively participated in problem-solving activities. Additionally, I engaged in Agile methodologies and demonstrated effective communication skills. Here are the key details about my responsibilities and contributions:
+            - Collaborated with cross-functional teams to develop software applications.
+            - Implemented coding best practices and standards for clean and efficient code.
+            - Participated in the full software development lifecycle, including testing and debugging.
+            - Contributed to code reviews and provided constructive feedback.
+            - Stayed updated with emerging technologies and industry best practices.
+            - Actively participated in problem-solving and troubleshooting activities.
+            - Engaged in Agile development methodologies.
+            - Demonstrated effective communication and collaboration skills.
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Ruby on Rails
+        level: 98%
+
+      - name: PostgreSQL & MySQL
+        level: 98%
+
+      - name: RSpec & Minitest
+        level: 98%
+
+      - name: Docker & CircleCI
+        level: 90%
+
+      - name: Microservices and Elixir
+        level: 80%
+
+      - name: ReactJS
+        level: 70%
